@@ -1,0 +1,31 @@
+// // console.log("dispaly set time out function");
+
+
+// function delay(){
+    
+//     let fun1=(a)=>{
+//     setTimeout(()=>{
+//         console.log(a);
+//         fun2(a-1)
+//     },2000);
+// }
+
+//     let fun2=(b)=>{
+//         setTimeout(()=>{
+//             console.log(b);
+//             console.log("happy independence day");
+//         },2000);
+        
+//     }
+    
+//     let fun3=(c)=>{
+//         setTimeout(()=>{
+//             console.log(c);
+//             fun1(c-1);
+//         },2000);
+//     }
+//   fun3(3);
+
+// }
+
+// delay();
